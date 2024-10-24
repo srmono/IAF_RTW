@@ -107,3 +107,6 @@ Here is a step-by-step guide on how to configure multiple API endpoints in RIT:
 7. **Analyze test results** for all API endpoints in a centralized manner.
 
 By organizing the API endpoints efficiently and using RIT’s features like environments, variables, test suites, and automation, you can streamline the management and automation of testing for multiple APIs in your application.
+
+---
+

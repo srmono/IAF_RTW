@@ -1,0 +1,59 @@
+System Requirements:
+
+https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
+
+IBM_Product Lifecycle
+
+https://www.ibm.com/support/pages/lifecycle/
+
+Official Documentation:
+https://www.ibm.com/docs/en/
+
+IBM RTW:
+https://www.ibm.com/docs/en/devops-test-workbench
+https://www.ibm.com/docs/en/devops-test-workbench/10.5.4
+
+IBM DevOps Test Workbench
+https://www.ibm.com/docs/en/devops-test-workbench/11.0.3
+
+
+IBM RFT:  -->IBM Devops Test UI
+
+IBM Rational Functional Tester  Docmentation
+https://www.ibm.com/docs/en/devops-test-ui/10.5.4
+
+Latest in 2024 Devops Test UI
+https://www.ibm.com/docs/en/devops-test-ui/11.0.3
+
+IBM RIT: -->  IBM Devops Test UI
+You can use Rational® Integration Tester extension to run integration tests from Rational Functional Tester
+https://www.ibm.com/docs/en/devops-test-ui/10.5.4?topic=perspective-testing-rational-integration-tester
+
+
+OLD: IBM RPT: --> IBM DevOps Test Performance 
+https://www.ibm.com/docs/en/devops-test-performance/10.5.4
+
+NEW: IBM DevOps Test Performance
+https://www.ibm.com/docs/en/devops-test-performance/11.0.0
+
+
+IBM RTCP: Rational Test Control Panel
+https://www.ibm.com/docs/en/rtw/9.0.1?topic=tester-working-rational-test-control-panel
+https://www.ibm.com/docs/en/devops-test-workbench/10.5.4?topic=ag-administering-rational-test-control-panel-rational-test-control-panel
+
+
+IBM RTCP: --> IBM DevOps Test Workbench
+
+
+
+
+
+
+
+
+
+
+
+
+
+
